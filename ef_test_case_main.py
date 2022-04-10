@@ -12,6 +12,7 @@ file_handler.setFormatter(file_format)
 file_logger = logging.getLogger('file_logger')
 file_logger.addHandler(file_handler)
 file_logger.setLevel(logging.DEBUG)
+file_logger.propagate = False
 
 date = str(input("Input date in yyyymmdd form: "))
 exercise = int(input("Input exercise number: "))
