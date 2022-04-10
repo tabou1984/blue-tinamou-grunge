@@ -15,17 +15,17 @@ For verification purposes, I have included the following
 2. For exercise 2, a python script called ef_exercice2_python.py
 
 Kudos:
-https://stackoverflow.com/questions/22847304/exception-handling-in-pandas-apply-function
-https://stackoverflow.com/questions/20067636/pandas-dataframe-get-first-row-of-each-group
-https://medium.com/firebase-developers/using-the-unnest-function-in-bigquery-to-analyze-event-parameters-in-analytics-fb828f890b42
-https://stackoverflow.com/questions/28244153/python-new-column-based-on-nan-in-other-columns
-https://stackoverflow.com/questions/37077898/pandas-dataframe-how-to-add-column-with-number-of-occurrences-in-other-column
-https://stackoverflow.com/questions/27517425/apply-vs-transform-on-a-group-object
-https://stackoverflow.com/questions/44647310/convert-bigquery-results-to-pandas-data-frame
-https://stackoverflow.com/questions/6499327/the-pythonic-way-to-generate-pairs
-https://stackoverflow.com/questions/3687682/how-to-dynamically-define-functions
-https://stackoverflow.com/questions/42321128/list-to-list-of-tuples-conversion
-https://stackoverflow.com/questions/21752399/pandas-dataframe-total-row
-https://pandas-gbq.readthedocs.io/en/latest/intro.html
-https://cloud.google.com/bigquery/docs/reference/standard-sql/timestamp_functions
-https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-usage-python
+- https://stackoverflow.com/questions/22847304/exception-handling-in-pandas-apply-function
+- https://stackoverflow.com/questions/20067636/pandas-dataframe-get-first-row-of-each-group
+- https://medium.com/firebase-developers/using-the-unnest-function-in-bigquery-to-analyze-event-parameters-in-analytics-fb828f890b42
+- https://stackoverflow.com/questions/28244153/python-new-column-based-on-nan-in-other-columns
+- https://stackoverflow.com/questions/37077898/pandas-dataframe-how-to-add-column-with-number-of-occurrences-in-other-column
+- https://stackoverflow.com/questions/27517425/apply-vs-transform-on-a-group-object
+- https://stackoverflow.com/questions/44647310/convert-bigquery-results-to-pandas-data-frame
+- https://stackoverflow.com/questions/6499327/the-pythonic-way-to-generate-pairs
+- https://stackoverflow.com/questions/3687682/how-to-dynamically-define-functions
+- https://stackoverflow.com/questions/42321128/list-to-list-of-tuples-conversion
+- https://stackoverflow.com/questions/21752399/pandas-dataframe-total-row
+- https://pandas-gbq.readthedocs.io/en/latest/intro.html
+- https://cloud.google.com/bigquery/docs/reference/standard-sql/timestamp_functions
+- https://cloud.google.com/bigquery/docs/reference/libraries#client-libraries-usage-python
