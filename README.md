@@ -9,3 +9,7 @@ When you run it, you will need to insert 2 values.
 Please, note, that you need a service-account-file.json (your credentials) for the code to run (the current file is empty).
 
 You may also find a requirements.txt file with all the dependencies.
+
+For verification purposes, I have included the following
+1. For exercise 1, an SQL query (called query_q1_2). You may find it in ef_queries.py
+2. For exercise 2, a python script called ef_exercice2_python.py
